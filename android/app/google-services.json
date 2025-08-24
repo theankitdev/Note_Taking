@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "156217611135",
+    "project_id": "notesuploder",
+    "storage_bucket": "notesuploder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156217611135:android:7bfbbc1fe459348277c04a",
+        "android_client_info": {
+          "package_name": "com.example.flutter_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ2YFkkv4PB__fxZFBFcd-vdi6vUNTA7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156217611135:android:023b6b04a5148bcf77c04a",
+        "android_client_info": {
+          "package_name": "com.example.notes_taking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ2YFkkv4PB__fxZFBFcd-vdi6vUNTA7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
